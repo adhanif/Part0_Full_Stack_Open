@@ -1,7 +1,7 @@
 # Full Stack Open Course - Part 0: Fundamentals of Web Apps
 
 ## Course Overview:
-The Full Stack Open Course by the Department of Computer Science at the University of Helsinki offers a comprehensive journey through modern web application development. **"Part 0: Fundamentals of Web Apps"** serves as the first part of this course, which is composed of a total of 13 parts.
+The Full Stack Open Course by the Department of Computer Science at the University of Helsinki offers a comprehensive journey through modern web application development. **"Fundamentals of Web Apps"** serves as an introduction part of this course, which is composed of a total of 13 parts.
 
 
 
